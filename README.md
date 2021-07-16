@@ -6,6 +6,7 @@ python3 -m venv
 
 # 运行应用程序
 export FLASK_APP=flaskr
+
 export FLASK_ENV=development
 
 ## 初始化数据库文件
