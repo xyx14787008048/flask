@@ -2,7 +2,7 @@
 pip install flask
 
 # 创建虚拟环境
-python3 -m venv venv
+python3 -m venv
 
 # 运行应用程序
 export FLASK_APP=flaskr
